@@ -22,7 +22,7 @@ Faça um programa para ler os valores e uma alíquota de acordo com essa tabela.
 
 * Valor Bruto = R$ 2000, Alíquota = 7.5, Valor Real = R$ 1850
 
-* Valor Bruto = R$ 2850, Alíquota = 15, Valor Real = R$ 2463
+* Valor Bruto = R$ 2850, Alíquota = 15, Valor Real = R$ 2422.5
 
 * Valor Bruto = R$ 3760, Alíquota = 22.5, Valor Real = 2914
 
