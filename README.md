@@ -1,21 +1,29 @@
-# cpp-bmi
+# cpp-irrf-taxes
 
-BMI (Body Mass Index) ou conhecido como IMC (Índice de Massa Corporal) é reconhecido como um padrão internacional para avaliar o grau de sobrepeso e obesidade.
+A tabela de descontos do IRRF, definidos pelo governo, é determinada na faixa e a base de incidência se encontra. 
 
-O IMC é calculado dividindo o peso (em kg) pela altura ao quadrado (em metros).
+Em 2018, os descontos eram os seguintes e aplicados aos valores brutos de salários:
 
-Estar no peso ideal é importante para aumentar a saúde, prevenindo doenças cardiovasculares e aumentar a qualidade de vida. 
+* Até 1.903,98 - isento
 
-Assim, quem está abaixo do peso deve aumentar o volume muscular para aumentar de peso de forma saudável e quem está acima do peso, deve diminuir para ter uma qualidade de vida mais saudável.
+* De 1.903,99 até 2.826,65 - alíquota de 7,5%
+
+* De 2.826,66 até 3.751,05 - alíquota de 15%
+
+* De 3.751,06 até 4.664,68 - alíquota de 22,5%
+
+* Acima de 4.664,68 - alíquota de 27,5%
+
+Faça um programa para ler os valores e uma alíquota de acordo com essa tabela.
 
 ## Exemplos de valores
 
-*Abaixo do peso* - Peso = 55, Altura = 1.73, IMC = 18.3768
+* Valor Bruto = R$ 1900, Alíquota = 0, Valor Real = R$ 1900
 
-*Normal* - Peso = 66, Altura = 1.73, IMC = 22.0522
+* Valor Bruto = R$ 2000, Alíquota = 7.5, Valor Real = R$ 1850
 
-*Sobrepeso* - Peso = 80, Altura = 1.73, IMC = 26.7299
+* Valor Bruto = R$ 2850, Alíquota = 15, Valor Real = R$ 2463
 
-*Obesidade 1* - Peso = 90, Altura = 1.73, IMC = 30.0712
+* Valor Bruto = R$ 3760, Alíquota = 22.5, Valor Real = 2914
 
-*Obesidade 2* - Peso = 110, Altura = 1.73, IMC = 36.7536
+* Valor Bruto = R$ 4670, Alíquota = 27.5, Valor Real = 3385.75
