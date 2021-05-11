@@ -2,17 +2,17 @@
 using namespace std;
 
 int main() {
-  // crie duas variáveis com os nomes: peso e altura
+  // crie as variáveis valorbruto e aliquota
   
-  // crie uma variável com o nome: imc
+  // crie uma variável valorreal
   
-  // leia um valor para a variável peso
+  // leia o valorbruto
   
-  // leia um valor para a variável altura
+  // leia a aliquota
   
-  // calcule o valor do imc a partir da fórmula
+  // calcule o valorreal
   
-  // mostre o valor do imc calculado
+  // mostre o valor de valorreal
   
   return 0;
 }
